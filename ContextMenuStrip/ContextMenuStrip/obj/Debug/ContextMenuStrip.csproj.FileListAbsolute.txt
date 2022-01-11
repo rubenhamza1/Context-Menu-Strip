@@ -1,0 +1,10 @@
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe.config
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.pdb
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.Form1.resources
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.exe
+C:\Users\Ucenik\Desktop\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.pdb
